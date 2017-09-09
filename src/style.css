@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    outline:none
+}
+
+#root{
+	box-sizing: border-box;
+	width: 100vw;
+}
+
+.app{
+	min-height: 100vh;
+	overflow: scroll;
+}

@@ -1,0 +1,35 @@
+.input-wrap{
+	box-sizing: border-box;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 96vw;
+	height: 10vh;
+	margin-left: 2vw;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	background: white;
+}
+
+.input{
+	box-sizing: border-box;
+	width: 80vw;
+	height: 8vh;
+	border: 0;
+	padding: 0;
+	outline:none;
+	border: 1px solid #ccc;
+	font-size: 6vw;
+}
+
+.search-btn{
+	width: 20vw;
+	height: 8vh;
+	background: #039ae1;
+	border: 0;
+	padding: 0;
+	font-size: 6vw;
+	color: white;
+}
